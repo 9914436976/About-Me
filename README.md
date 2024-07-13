@@ -4,10 +4,14 @@ In addition to my artistic pursuits, I love staying active by playing cricket an
 
 12th Grades 
 
-| Subject  | Total Marks | Obtained Maeks |
-|---------|-----|------------------|
-| Physics | 100 | 80     |
-| Chemistry| 100 | 95    |
-| Charlie | 35  |        |
+| Subject    | Total Marks | Obtained Marks |
+|------------|-------------|----------------|
+| Physics    | 100         | 80             |
+| Chemistry  | 100         | 95             |
+| Mathematics| 100         | 81             |
+| English    | 100         | 93             |
+| Punjabi    | 100         | 74             |
+| Total      | 500         | 423            |
+
 
 
